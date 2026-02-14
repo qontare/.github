@@ -25,12 +25,13 @@ Somos uma plataforma de inteligência fiscal e contábil que transforma complexi
 ## O Problema
 O Brasil possui um dos sistemas tributários mais complexos do planeta. Os números falam por si:
 
-| Dado | Realidade |
-|------|-----------|
-| **🕐 1.501 horas/ano** | Tempo médio que uma empresa brasileira gasta com obrigações fiscais |
-| **📜 +400.000 normas** | Quantidade de normas tributárias criadas desde a Constituição de 1988 |
-| **💸 R$ 181 bi/ano** | Custo estimado do compliance tributário para o setor privado |
-| **🔄 Reforma Tributária** | CBS, IBS, IS — novas regras que vão redesenhar todo o sistema até 2033 |
+| Dado | Realidade | Fonte |
+|------|-----------|-------|
+| **🕐 1.501 horas/ano** | Tempo médio que uma empresa brasileira gasta para preparar, declarar e pagar impostos — o maior do mundo | [Banco Mundial — Doing Business Subnacional Brasil, 2021](https://www.cnnbrasil.com.br/economia/banco-mundial-empresas-gastam-ate-1501-horas-para-pagar-impostos-no-brasil/) |
+| **📜 +460.000 normas** | Quantidade de normas tributárias editadas desde a Constituição de 1988, uma média de 2+ normas por hora útil | [IBPT — Relatório "Quantidade de Normas editadas no Brasil", 2022](https://ibpt.org.br/brasil-cria-em-media-46-novas-regras-de-tributos-a-cada-dia-util/) |
+| **💸 R$ 181 bi/ano** | Custo estimado para manter pessoal, sistemas e equipamentos no acompanhamento das modificações da legislação tributária | [IBPT — Estudo de Compliance Tributário, 2021](https://www.poder360.com.br/economia/empresas-gastam-r-181-bilhoes-por-ano-com-legislacao-tributaria-no-brasil/) |
+| **🔄 Reforma Tributária** | CBS, IBS, IS — novas regras que vão redesenhar todo o sistema tributário brasileiro até 2033 | [Emenda Constitucional 132/2023](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm) |
+
 
 Escritórios contábeis lidam com **múltiplos modelos de NFe** (NFe, NFCe, NFSe, CTe, MDFe), cada um com seu layout, portal e regra de validação. A maioria dos processos ainda depende de trabalho manual, retrabalho e planilhas frágeis.
 
